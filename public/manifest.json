@@ -1,0 +1,11 @@
+
+{
+    "name": "Test", 
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [{
+        "src": "logo.png",
+        "sizes": "200x200",
+        "type": "image/png"
+      }]
+  }

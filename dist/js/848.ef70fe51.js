@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadmin2"]=self["webpackChunkadmin2"]||[]).push([[848],{4848:function(e,n,i){i.r(n),i.d(n,{default:function(){return l}});var s=function(){var e=this,n=e._self._c;return n("div",[e._v(" 商城"),n("button",{directives:[{name:"permission",rawName:"v-permission",value:"SuperAdmin",expression:"'SuperAdmin'"}],staticClass:"butt"},[e._v("权限")])])},t=[],u={},r=u,a=i(1001),c=(0,a.Z)(r,s,t,!1,null,"7743c96d",null),l=c.exports}}]);
+//# sourceMappingURL=848.ef70fe51.js.map
